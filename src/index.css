@@ -2,12 +2,13 @@
 /* bring in normalize.css styles */
 
 body {
+
   background: linear-gradient(to bottom, #1c2748, #5d5959);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 
-  margin: 0;
+  margin: 100px;
   overflow: hidden;
   color: white;
 }
@@ -15,3 +16,5 @@ body {
   text-align: center;
   margin: 0 auto;
  }
+
+ 
